@@ -49,3 +49,53 @@ Search kısmından belirlediğimiz bilgilere ait öğrenciler arasından seçim 
 Öğrenci yazdırma formumuzda seçtiğimiz kriterlere uygun olan öğrenci listemizi text dosyası olarak bilgisayarımıza yazdırırız.
 ![Öğrenci Yazdır](https://user-images.githubusercontent.com/51914434/60217694-f7f2f080-9875-11e9-82c7-d17cbd4b5f5f.jpg)
 
+# DERS
+![Main Form Course](https://user-images.githubusercontent.com/51914434/60265368-40e68b80-98ee-11e9-8a7a-c4736573c213.png)
+
+Dersin Adını , Ders saatini ve Bilgilerini girerek Add butonuna basıp ders veri tabanımıza ders ekleyebiliriz.
+![Ders Ekle](https://user-images.githubusercontent.com/51914434/60265369-417f2200-98ee-11e9-8655-b132ac4b127d.jpg)
+
+ID'sini girdiğimiz dersi Remove Butonuna basarak veri tabanından silebiliriz.
+![Ders Sil](https://user-images.githubusercontent.com/51914434/60265370-417f2200-98ee-11e9-9fc3-63e764afa799.jpg)
+
+Select Course dan var olan dersleri seçerek. Seçtiğimiz desler üzerinde düzenlemeler yapabiliriz.
+![Ders Düzenle](https://user-images.githubusercontent.com/51914434/60265371-417f2200-98ee-11e9-95cb-1eb6812de22f.jpg)
+
+Ders listesindeki derslere tıklayarak bilgilerini görebilir istersen düzenleyebilir istersen silebiliriz.
+Ve 4 tane olan yön butonları dersler arası geçişimizde bize kolaylık sağlar.
+Aynı zamanda yeni ders de ekleyebiliriz.
+![Ders Yönet](https://user-images.githubusercontent.com/51914434/60265372-417f2200-98ee-11e9-877e-cfdbf5d201da.jpg)
+
+Derslerimizi bilgileriyle beraber yazdırabiliriz.
+![Ders Yazdır](https://user-images.githubusercontent.com/51914434/60265374-4217b880-98ee-11e9-8116-6404a5e96dcd.jpg)
+
+# NOT
+![Main Form Not](https://user-images.githubusercontent.com/51914434/60265375-4217b880-98ee-11e9-955d-5c4df56cfac2.jpg)
+
+Listeden seçtiğimiz öğrenciye ,seçtiğimiz desrten not ekleyebiliriz.
+Aynı öğrenci aynı dersi birden fazla kez alamaz!
+Eğer ki aynı öğrenciye tek dersi birdenf azla kez vermek istersen program bizi hata mesajıyla karşılar.
+![Not ekle](https://user-images.githubusercontent.com/51914434/60265376-4217b880-98ee-11e9-8bc9-20d368c81f84.jpg)
+
+Seçtiğimiz bir notu Remove butonuna basarak silebiliriz.
+![Not Silme](https://user-images.githubusercontent.com/51914434/60265377-4217b880-98ee-11e9-961c-0fc68e99746b.jpg)
+
+Show Score butonuna basarak Alınan bütün dersleri kim tarafından hangi notlarla alındığının listesini görebiliriz.
+Listeden seçtiğimiz not üzerinde , silme işlemi yapabiliriz.
+"Average Score By Course" butonuna basarak derslerin not ortalamasını görebiliriz.
+![Not Yönetme](https://user-images.githubusercontent.com/51914434/60265378-42b04f00-98ee-11e9-8847-87c144e28d50.jpg)
+
+Show Studen butonuna basarak öğrenci listesine ulaşabilir ve seçtiğimiz öğrenciye Not ekleyebiliriz.
+![Not Yönetme2](https://user-images.githubusercontent.com/51914434/60265379-42b04f00-98ee-11e9-9456-59f72d3a0fd8.jpg)
+
+Var olan derslerin not ortalamasını görebiliriz.
+![Not Ortalaması](https://user-images.githubusercontent.com/51914434/60265380-42b04f00-98ee-11e9-9143-9c0e8f589c42.jpg)
+
+"Courses List" listesinden seçtiğimiz dersin alındığı öğrenci listesini görebiliriz ve bu listeyi yazdırabilir.
+![Not Yazdır](https://user-images.githubusercontent.com/51914434/60265381-4348e580-98ee-11e9-96a5-c416fa28ffea.jpg)
+
+"Student List" listesinden Seçtiğimiz öğrencinin aldığı bütün dersleri ve notlarının listesini görebilir ve bunu liste halinde yazdırabiliriz.
+![Not Yazdır2](https://user-images.githubusercontent.com/51914434/60265382-4348e580-98ee-11e9-8c50-1de00378517e.jpg)
+
+
+## Yapmış olduğum bu projemde veri tabanı kulanımını ve mantığını daha iyi kavramaya çalıştım.
